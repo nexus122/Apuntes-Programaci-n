@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "02 - Journal/19-03-2022.md",
+            "file": "01 - Apuntes Programación/Metodos/Desestructuración de Objetos..md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Journal/19-03-2022.md",
+                "file": "01 - Apuntes Programación/Metodos/Desestructuración de Objetos..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,6 +87,25 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "171afa675a6fadd4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2d0eec792b6aa82b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
           }
         ],
         "currentTab": 1
@@ -98,15 +117,15 @@
   },
   "active": "205c6c1fa3f3dc53",
   "lastOpenFiles": [
+    "01 - Apuntes Programación/Metodos/Desestructuración de Objetos..md",
+    "01 - Apuntes Programación/Metodos/Spread.md",
+    "01 - Apuntes Programación/Variables/Array.md",
     "02 - Journal/19-03-2022.md",
     "01 - Apuntes Programación/Spread - Rest.md",
     "01 - Apuntes Programación/Variables/String.md",
     "01 - Apuntes Programación/Variables/Const.md",
     "01 - Apuntes Programación/Funciónes/Funcion de Callback.md",
     "01 - Apuntes Programación/Funciónes/Función de Flecha.md",
-    "01 - Apuntes Programación/Arrays Mutables..md",
-    "900 - Plantillas/Plantilla Diaria..md",
-    "01 - Apuntes Programación/Variables/Ambitos de Variables..md",
-    "02 - Journal/2022-03-30.md"
+    "01 - Apuntes Programación/Arrays Mutables..md"
   ]
 }
