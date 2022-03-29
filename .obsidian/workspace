@@ -1,0 +1,109 @@
+{
+  "main": {
+    "id": "50b86edac43847ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0043f7ab9743fb5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "02 - Journal/2022-03-29.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6615e78d78959f91",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f9ea1c71160868b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f35df53536a6917d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a389c3b72aae19fe",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3d4dd898bc8b94d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7c3a80970e37d3c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f3f99c91aaee810a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "02 - Journal/2022-03-29.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9e1b0f5ed9d9e161",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d0043f7ab9743fb5",
+  "lastOpenFiles": [
+    "02 - Journal/2022-03-29.md",
+    "01 - Apuntes Programación/Ambitos de Variables..md",
+    "01 - Apuntes Programación/Función de Flecha.md",
+    "01 - Apuntes Programación/Funcion de Callback.md",
+    "900 - Plantillas/Plantilla Diaria..md",
+    "02 - Journal/2022-03-30.md",
+    "02 - Journal/29-03-22.md"
+  ]
+}
