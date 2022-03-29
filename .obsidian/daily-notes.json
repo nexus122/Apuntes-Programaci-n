@@ -1,5 +1,5 @@
 {
-  "format": "YYYY-MM-DD",
+  "format": "DD-MM-YYYY",
   "folder": "02 - Journal",
   "template": "900 - Plantillas/Plantilla Diaria.",
   "autorun": false
